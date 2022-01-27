@@ -1,0 +1,5 @@
+Promedios:
+WordCounter: 48 milisegundos
+WordCounterSplit: 70 milisegundos
+WordCounterString: 25 milisegundos
+WordCounterUnbuffered: 75 milisegundos
